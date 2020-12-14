@@ -25,3 +25,6 @@ body{
     margin-top: 1rem;
 }
 
+.navbar-toggler-icon{
+    border-radius: 2.5px;
+}
