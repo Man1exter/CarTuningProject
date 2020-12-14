@@ -12,3 +12,14 @@ body{
     height: 400vh;
     background-image: linear-gradient(to bottom,blue,black);
 }
+.navbar{
+    background-image: url('ford-mustang-1162880_1920.jpg');
+    background-position: center;
+    background-size: cover;
+    font-size: 2rem;
+}
+.fa-pied-piper-alt{
+    font-size: 4.8rem;
+    transform: skewY(160deg);
+    margin-top: 1rem;
+}
