@@ -7,3 +7,8 @@
 html{
     font-size: 62.5%;
 }
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 400vh;
+    background-image: linear-gradient(to right, blue,black);
+}
