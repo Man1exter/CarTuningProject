@@ -28,3 +28,6 @@ body{
 .navbar-toggler-icon{
     border-radius: 2.5px;
 }
+#carouselExampleCaptions{
+    margin-top: 10rem;
+}
