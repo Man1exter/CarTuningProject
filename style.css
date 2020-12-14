@@ -10,5 +10,5 @@ html{
 body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     height: 400vh;
-    background-image: linear-gradient(to right, blue,black);
+    background-image: linear-gradient(to right bottom,blue,black);
 }
