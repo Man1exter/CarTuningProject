@@ -43,3 +43,18 @@ body{
 .lyx{
     border: 3px solid purple;
 }
+.wien{
+    opacity: 1;
+    font-size: 2rem;
+    cursor: pointer;
+    transition: .3s linear;
+}
+.wien:hover{
+    color: red;
+}
+.opac{
+    transition: .5s linear;
+}
+.opac:hover{
+    opacity: .8;
+}
