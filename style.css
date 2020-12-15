@@ -32,12 +32,12 @@ body{
     margin-top: 8rem;
 }
 .tage{
-    font-size: 4rem;
+    font-size: 3rem;
     color: red;
 }
 .tagx{
     font-size: 3rem;
-    margin-bottom: 32.5rem;
+    text-align: center;
     color: orangered;
 }
 .lyx{
