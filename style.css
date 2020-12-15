@@ -31,3 +31,15 @@ body{
 #carouselExampleCaptions{
     margin-top: 8rem;
 }
+.tage{
+    font-size: 4rem;
+    color: red;
+}
+.tagx{
+    font-size: 3rem;
+    margin-bottom: 32.5rem;
+    color: orangered;
+}
+.lyx{
+    border: 3px solid purple;
+}
