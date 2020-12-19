@@ -99,4 +99,11 @@ main{
 .spec{
     font-size: 1.5rem;
 }
-
+.hoveref{
+    cursor: pointer;
+    transition: .3s linear;
+}
+.hoveref:hover{
+background: #000;
+color: white;
+}
