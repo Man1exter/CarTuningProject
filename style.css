@@ -113,3 +113,7 @@ transition: .3s linear;
 .opacef:hover{
 opacity: .5;
 }
+
+.cheader{
+    font-size: 2rem;
+}
