@@ -134,3 +134,8 @@ font-weight: bold;
 .hoveroffer:hover{
 background-color: yellow;
 }
+.fzimg{
+    position: relative;
+    height: 500px;
+    background-size: cover;
+}
