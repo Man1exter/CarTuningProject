@@ -126,3 +126,11 @@ opacity: .5;
 .offercard{
     margin-top: 15rem;
 }
+.hoveroffer{
+transition: .5s linear;
+cursor: pointer;
+font-weight: bold;
+}
+.hoveroffer:hover{
+background-color: yellow;
+}
