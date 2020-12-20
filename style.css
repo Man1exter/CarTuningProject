@@ -155,3 +155,24 @@ background-color: yellow;
 .ikonfas{
     font-size: 5rem;
 }
+/* <!-- <i class="fas fa-medal"></i> -->
+<!-- <i class="fas fa-award"></i> -->
+<!-- <i class="fas fa-trophy"></i> --> */
+.fa-medal{
+    transition: .4s linear;
+}
+.fa-medal:hover{
+    color: red;
+}
+.fa-award{
+    transition: .4s linear;
+}
+.fa-award:hover{
+    color: red;
+}
+.fa-trophy{
+    transition: .4s linear;
+}
+.fa-trophy:hover{
+    color: red;
+}
