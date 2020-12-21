@@ -212,3 +212,14 @@ background-color: yellow;
 .inputValue2{
     height: 100px;
 }
+.sentemail{
+    margin-top: 2rem;
+    height: 50px;
+    width: 105px;
+    font-size: 2rem;
+    transition: .5s linear;
+    background-color: rgb(251, 255, 0);
+}
+.sentemail:hover{
+    background-color: red;
+}
