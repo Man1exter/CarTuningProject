@@ -223,3 +223,10 @@ background-color: yellow;
 .sentemail:hover{
     background-color: red;
 }
+.mapgoogle{
+    margin-top: 5rem;
+}
+iframe{
+    height: 600px;
+    width: 1200px;
+}
